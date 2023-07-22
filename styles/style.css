@@ -139,14 +139,11 @@ platforms section
     /* ------------platforms section-------------- */
 
     .platforms {
+        display: flex;
         justify-content: center;
-        gap: 10px;
+        gap: 1em;
         flex-wrap: wrap;
     }
 
-    .platforms img {
-        padding-top: 15px;
-        width: 22%;
-    }
 
 }
