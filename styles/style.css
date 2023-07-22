@@ -106,13 +106,18 @@ banner styles
         margin-top: 3em;
     }
 
-    .banner-description, .banner-image {
+    .banner-description {
         width: 100%;
     }
 
     .banner-description h1 {
         font-size: 2em;
         margin-top: 0;
+    }
+
+    .banner-image {
+        width: 80%;
+        align-self: center;
     }
 
     .banner-image img {
