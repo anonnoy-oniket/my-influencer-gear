@@ -85,10 +85,12 @@ banner styles
         margin: 0;
         display: flex;
         justify-content: space-between;
+        /* font-size: larger; */
     }
 
     .nav-mobile {
         display: block;
+        font-size: larger;
     }
 
     .for-pc {
